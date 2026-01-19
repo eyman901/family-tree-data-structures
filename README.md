@@ -21,10 +21,10 @@ This project was designed to strengthen understanding of tree-like data structur
  Features: 
 - Add persons with basic details (name, age, gender)
 - Define relationships:
-  - Parent – Child
+  - Parent-Child
   - Siblings
   - Spouse
-- Display family tree using **recursive traversal**
+- Display family tree using recursive traversal
 - Edit existing person data
 - Validate and prevent illegal relationships, such as:
   - Parent–child marriage
@@ -35,7 +35,7 @@ This project was designed to strengthen understanding of tree-like data structur
 
 
  Concepts Used:
-- Structures (`struct`)
+- Structures (struct)
 - Pointers
 - Arrays
 - Recursion
@@ -54,9 +54,9 @@ This project was designed to strengthen understanding of tree-like data structur
  Language:
 - C++
  Course Information:
-- **Subject:** Data Structures  
-- **Semester:** 3rd Semester  
-- **Program:** BS Cybersecurity
+- Subject: Data Structures  
+- Semester: 3rd Semester  
+- Program: BS Cybersecurity
 
 
  Author:
