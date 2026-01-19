@@ -1,8 +1,8 @@
 # Family Tree Management System (C++)
 
-This project was developed as a **final project for the Data Structures course (3rd Semester)**.
+This project was developed as a final project for the Data Structures course (3rd Semester).
 
-It is a **menu-driven Family Tree Management System** implemented in **C++**, focusing on core data structure concepts such as structures, pointers, and recursion.
+It is a menu-driven Family Tree Management System implemented in C++, focusing on core data structure concepts such as structures, pointers, and recursion.
 
 
  Team Members:
@@ -14,11 +14,11 @@ It is a **menu-driven Family Tree Management System** implemented in **C++**, fo
 The Family Tree Management System allows users to create and manage family relationships in a hierarchical structure.  
 The system supports adding individuals, defining relationships, and validating family rules.
 
-This project was designed to strengthen understanding of **tree-like data structures** and **pointer-based relationships**.
+This project was designed to strengthen understanding of tree-like data structures and pointer-based relationships.
 
 ---
 
-## ✨ Features
+ Features: 
 - Add persons with basic details (name, age, gender)
 - Define relationships:
   - Parent – Child
@@ -33,9 +33,8 @@ This project was designed to strengthen understanding of **tree-like data struct
   - Minor–adult marriage
   - Inbreeding cases
 
----
 
-## 🛠️ Concepts Used
+ Concepts Used:
 - Structures (`struct`)
 - Pointers
 - Arrays
@@ -43,14 +42,14 @@ This project was designed to strengthen understanding of **tree-like data struct
 - Tree-based data representation
 - Menu-driven programming
 
----
+
 
  How to Run the Project
-1. Open the `.cpp` file in **Dev-C++** or any C++ compiler
+1. Open the `.cpp` file in Dev-C++ or any C++ compiler
 2. Compile the program
 3. Run and interact using the menu options
 
----
+
 
  Language:
 - C++
@@ -61,6 +60,6 @@ This project was designed to strengthen understanding of **tree-like data struct
 
 
  Author:
-**Eeman Fatima**  
+Eeman Fatima  
 BS Cybersecurity Student
 
